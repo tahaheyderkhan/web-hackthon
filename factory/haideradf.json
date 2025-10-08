@@ -1,0 +1,9 @@
+{
+	"name": "haideradf",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f2cc6c49-86b4-4fde-b74e-2a8f6af64651",
+		"tenantId": "007e7528-fe18-4a1a-a562-5a10a02f15c7"
+	}
+}
